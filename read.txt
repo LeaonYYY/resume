@@ -1,2 +1,2 @@
 dist是打包后的文件夹
-resumes包括全部的webpack
+resumes包括全部的webpack页面代码
